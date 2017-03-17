@@ -1,0 +1,25 @@
+/**
+* @name style.css : Feuille de style pour la personnalisation de l'agenda
+**/
+body{
+	font-size: 2em;
+}
+.not-showed {
+	display: none;
+}
+.dialog{
+	background-color: hsla(28, 30%, 30%, .8);
+	border-radius: 3px;
+	border: solid 1px #000;
+}
+
+#dialog header{
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 0.5em;
+	/* ou font-size: 1rem; */
+}
+
+#dialog blockquote{
+	font-weight: bold;
+	font-size: 0.8em;
+}
