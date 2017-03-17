@@ -80,5 +80,4 @@ class appLoader{
 		return false; // LE fichier demandé n'a pas pu être trouvé
 	}
 }
-
 ?>
